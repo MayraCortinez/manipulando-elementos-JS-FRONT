@@ -23,7 +23,7 @@ window.addEventListener('load', function() {
      subtitulo.innerHTML += 'invitado' 
     }
 
-    h2.style.fontFamily = 'uppercase'
+    h2.style.textTransform = 'uppercase'
 
     a.style.color = '#E51B3E'
 
